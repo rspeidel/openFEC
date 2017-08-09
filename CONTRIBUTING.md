@@ -8,7 +8,7 @@ We love all friendly contributions, and we welcome your ideas about how to
 make the FEC's online presence more user friendly, accessible, and elegant.
 
 To ensure a welcoming environment for our projects, our staff follows the
-[18F Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md);
+[18F Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md) [This link is not resolving correctly];
 contributors should do the same. Please also check out the
 [18F Open Source Policy GitHub repository]( https://github.com/18f/open-source-policy).
 
